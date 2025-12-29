@@ -1,8 +1,8 @@
+# ShareCrate Service Design Summary  (Inspired from PasteBin app on the web)
 ![alt text](image.png)
-# Pastebin Service Design Summary
 
 ## What is Pastebin?
-Pastebin.com-like services enable users to store plain text or images over the Internet and generate unique URLs to access the uploaded data. These services are commonly used to share data quickly by passing the URL to others.
+[Pastebin.com](https://pastebin.com) -like services enable users to store plain text or images over the Internet and generate unique URLs to access the uploaded data. These services are commonly used to share data quickly by passing the URL to others.
 
 ## Requirements and Goals of the System
 
